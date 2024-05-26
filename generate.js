@@ -148,7 +148,6 @@ Respond only with the name of the command needed to be run next. For example, if
       fs.mkdirSync(`code/${dirname}`, { recursive: true });
     } else if (message_content.indexOf("read_file") === 0) {
       const filename = parse_filename(message_content);
-      // TODO
     } else if (message_content.indexOf("task_finished") === 0) {
       console.log("TASK FINISHED");
       break;
