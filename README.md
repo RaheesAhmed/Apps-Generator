@@ -7,7 +7,7 @@ This is a coding App Generator I'm working on. It creates full codebases from a 
 Clone the repo
 
 ```
-git clone
+git clone https://github.com/RaheesAhmed/Apps-Generator.git
 ```
 
 Install packages:
