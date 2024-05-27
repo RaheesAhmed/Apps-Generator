@@ -1,6 +1,6 @@
 ## App Generator
 
-This is a coding App Generator I'm working on. It creates full codebases from a single prompt to an LLM using `GPT-4o` Model.
+This is a coding App Generator I'm working on. It creates full stack apps from a single prompt to an LLM using `GPT-4o` Model.
 
 ## Quick Start
 
